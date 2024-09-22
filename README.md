@@ -1,8 +1,8 @@
 ## Hi! I'm Daniel
 
 - I'm a 1/4 at Stevens Institute of Technology
-- I have a passion for Software Development and Machine Learning
-- Building my coding porfolio & knowledge
+- I have a passion for Software Development & Machine Learning
+- I'm proficient in Python & Javascript
 - Fun Fact: My favorite soda is Fanta!
 
 <!--
