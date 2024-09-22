@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Daniel
+
+- I'm a 1/4 at Stevens Institute of Technology
+- I have a passion for Software Development and Machine Learning
+- Building my coding porfolio & knowledge
+- Fun Fact: My favorite soda is Fanta!
 
 <!--
 **DanielL3478/DanielL3478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
